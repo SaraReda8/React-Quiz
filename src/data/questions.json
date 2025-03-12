@@ -1,0 +1,119 @@
+{
+  "questions": [
+    {
+      "question": "What does the 'em' unit represent in CSS?",
+      "options": [
+        "The width of the viewport",
+        "The height of the parent element",
+        "The font size of the parent element",
+        "A fixed size in pixels"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which CSS property controls the stacking order of elements?",
+      "options": ["z-index", "position", "display", "opacity"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which HTML tag is used to define an interactive button?",
+      "options": ["<div>", "<span>", "<button>", "<input>"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the difference between 'absolute' and 'fixed' positioning in CSS?",
+      "options": [
+        "Fixed stays relative to the viewport, while absolute is relative to the nearest positioned ancestor",
+        "Absolute stays relative to the viewport, while fixed is relative to the parent element",
+        "Both behave the same way",
+        "Fixed is affected by scrolling, while absolute is not"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Which Bootstrap class is used to make a button blue by default?",
+      "options": [".btn-danger", ".btn-primary", ".btn-success", ".btn-info"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which CSS framework uses utility-first classes to style components?",
+      "options": ["Bootstrap", "Tailwind CSS", "Foundation", "Bulma"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which preprocessor extends CSS with variables, mixins, and functions?",
+      "options": ["LESS", "Sass", "SCSS", "All of the above"],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "What does 'hoisting' mean in JavaScript?",
+      "options": [
+        "Moving a function to the bottom of a script",
+        "Declaring variables only after they are used",
+        "JavaScript moves variable and function declarations to the top of their scope",
+        "A new ES6 feature for async programming"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Which of the following is NOT a JavaScript data type?",
+      "options": ["Number", "Boolean", "Float", "Symbol"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "How can you select an element by ID using JavaScript?",
+      "options": [
+        "document.querySelector('#id')",
+        "document.getElementById('id')",
+        "Both A and B",
+        "document.getElementByClass('id')"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which hook is used for state management in React?",
+      "options": ["useEffect", "useState", "useReducer", "useContext"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which state management library is commonly used in React applications?",
+      "options": ["Redux", "Zustand", "Context API", "All of the above"],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "What is the main advantage of Tailwind CSS over Bootstrap?",
+      "options": [
+        "It provides pre-styled components",
+        "It offers more control over styles using utility classes",
+        "It requires JavaScript to function",
+        "It has a smaller file size"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Which Bootstrap class makes an element responsive and center-aligned?",
+      "options": [".container", ".container-fluid", ".row", ".d-flex"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which CSS property is used to create a flexbox container?",
+      "options": ["display: flex", "position: absolute", "grid-template-columns", "float: left"],
+      "correctOption": 0,
+      "points": 10
+    }
+  ]
+}
