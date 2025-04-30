@@ -37,3 +37,5 @@ Welcome to **Frontend Mastery Quiz**, an interactive and fun quiz app designed t
 ```sh
 git clone (https://github.com/SaraReda8/React-Quiz.git)
 cd react-quiz
+npm install
+npm start 
